@@ -1,2 +1,6 @@
 myenv/
 package/
+packages/
+
+.env
+*.zip
